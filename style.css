@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald:600&display=swap');
 body {
     background-color: rgb(245, 228, 248);
     font-family: 'Ubuntu', sans-serif;
@@ -17,11 +16,11 @@ span{
     text-align: center;
     padding-top: 40px;
     color: #8C55AA;
-    font-family: 'Oswald';
+    font-family: 'Ubuntu',sans-serif;
     font-weight: bold;
 }
 .sub{
-    font-family: 'Oswald';
+    font-family: 'Ubuntu',sans-serif;
     text-align: center;
 }
 .un {
