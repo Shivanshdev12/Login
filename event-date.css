@@ -17,6 +17,10 @@ p{
 p.field{
     margin-left:100px;
 }
+input#img{
+    margin-left:30%;
+    text-align: center;
+}
 img{
     margin-left:150px;
     max-width:100%;
